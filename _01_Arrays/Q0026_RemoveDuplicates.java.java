@@ -1,6 +1,8 @@
+package _01_Arrays;
+
 import java.util.*;
 
-class RemoveDuplicates {
+class Q0026RemoveDuplicates {
     public static int removeDuplicates(int[] nums) {
         int n = nums.length;
 
